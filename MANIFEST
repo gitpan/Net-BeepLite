@@ -1,0 +1,26 @@
+beeplite-license.txt
+README
+Makefile.PL
+ChangeLog
+MANIFEST
+DESIGN_NOTES
+TODO
+lib/Net/BeepLite/Frame.pm
+lib/Net/BeepLite/ClientSession.pm
+lib/Net/BeepLite/BaseProfile.pm
+lib/Net/BeepLite/Session.pm
+lib/Net/BeepLite/ServerSession.pm
+lib/Net/BeepLite/MgmtProfile.pm
+lib/Net/BeepLite/Message.pm
+lib/Net/BeepLite/Channel.pm
+lib/Net/BeepLite.pm
+t/1.t
+t/2.t
+t/3.t
+t/4.t
+t/5.t
+t/6.t
+t/test_echo_server.pl
+t/test_echo_client.pl
+t/FullDuplexScalar.pm
+META.yml                                Module meta-data (added by MakeMaker)

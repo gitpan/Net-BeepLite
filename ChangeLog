@@ -1,0 +1,9 @@
+2003-09-08  David Blacka  <davidb@verisignlabs.com>
+
+	* released version 0.01 (a beta release).
+
+2003-08-27  David Blacka  <davidb@verisignlabs.com>
+
+	* original version; created by h2xs 1.22 with options
+	  -AX -n Net::BeepLite
+
